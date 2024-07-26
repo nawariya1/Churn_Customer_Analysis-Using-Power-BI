@@ -1,0 +1,33 @@
+Original data 
+
+Male:3555
+M:1950-->54%
+Y:755-->21%
+2Y:850-->23%
+
+Female:3488	
+M:1925-->55%
+Y:718-->20%
+2Y:845-->24%
+
+
+Churned data:
+
+Male:939
+M:813-->86%
+Y:91-->.9%
+2Y:26-->2%
+
+Female:930
+M:842-->90%
+Y:75-->8%
+2Y:22-->2%
+
+
+Monthly customers are more likely to churn,
+Female customers are more likely to churn as compared to male monthly customers.
+
+Male 2yearly customers are more likely to churn as compared to Female 2 yearly customers.
+
+
+
